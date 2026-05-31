@@ -1,0 +1,14 @@
+{
+    "name": "Tether USD",
+    "type": "BEP20",
+    "symbol": "USDT ",
+    "decimals": 6,
+    "website": "https://usdt0.to/",
+    "description": "USDT is a safe, secure asset that enables billions of dollars of transfers and is used globally.",
+    "explorer": "https://bscscan.com/token/0x80871c43D6297b9f2A500AD140db6aa328dD4442",
+    "status": "active",
+    "id": "0x80871c43D6297b9f2A500AD140db6aa328dD4442", 
+    "tags": [
+        "stablecoin"
+    ]
+}
